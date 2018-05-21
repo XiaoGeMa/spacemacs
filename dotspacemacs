@@ -50,13 +50,6 @@ This function should only modify configuration layer settings."
      latex
      python
      ruby
-     ;; (erc :variables
-     ;;      erc-server-list
-     ;;      '(("irc.freenode.net"
-     ;;         :port "6697"
-     ;;         :ssl t
-     ;;         :nick "coolfortea"
-     ;;         :password "1qaz2wsx")))
      erc
      (chinese :variables
               chinese-enable-youdao-dict t
